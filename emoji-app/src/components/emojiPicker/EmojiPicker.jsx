@@ -55,7 +55,7 @@ export default forwardRef((props, inputRef) => {
   }
 
   return (
-    <div ref={containerRef} className={styles.inputContainer}>
+    <div ref={containerRef}>
       <button className={styles.emojiPickerButton} onClick={handleClick}>
         😊
       </button>
