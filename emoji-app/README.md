@@ -36,7 +36,7 @@ Use the following steps to run this Portfolio locally:
 
 For a live demo please click on the following link:
 
-https://kruger-weather-site.netlify.app/
+https://kruger-emoji-site.netlify.app/
 
 ## Authors
 
